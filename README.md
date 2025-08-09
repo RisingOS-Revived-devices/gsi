@@ -54,7 +54,7 @@ git clone https://android.googlesource.com/platform/prebuilts/vndk/v29 prebuilts
 
 git clone https://github.com/ponces/treble_adapter -b master treble_adapter
 
-git clone https://github.com/RisingOS-Revived-devices/treble-patches -b sizteen patches
+git clone https://github.com/RisingOS-Revived-devices/treble-patches -b sixteen patches
 ```
 
 ---------------
